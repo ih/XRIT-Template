@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.abstractionmachines.xritmultiselect": {
+      "version": "file:C:/Projects/XRIT-Multiselect",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.burst": {
       "version": "1.7.3",
       "depth": 1,
