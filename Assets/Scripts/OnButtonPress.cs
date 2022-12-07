@@ -1,4 +1,11 @@
-﻿using UnityEngine;
+﻿/**
+ * From learn.unity.com VR Project Setup
+ * https://learn.unity.com/tutorial/vr-project-setup?pathwayId=627c12d8edbc2a75333b9185&missionId=62554983edbc2a76a27486cb#
+ *
+ * This asset is governed by the Asset Store EULA
+ */
+
+using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.InputSystem;
 

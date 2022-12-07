@@ -1,7 +1,25 @@
 {
   "dependencies": {
+    "com.abstractionmachines.gameobjectutility": {
+      "version": "file:C:/Projects/GameObjectUtility",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.abstractionmachines.mathutility": {
+      "version": "file:C:/Projects/MathUtility",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.abstractionmachines.xritmultiselect": {
       "version": "file:C:/Projects/XRIT-Multiselect",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.chrisnolet.quickoutline": {
+      "version": "file:C:/Projects/QuickOutline",
       "depth": 0,
       "source": "local",
       "dependencies": {}
